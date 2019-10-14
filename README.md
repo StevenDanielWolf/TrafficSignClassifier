@@ -15,7 +15,8 @@ In this project, a convolutional neural network is utilized to classify traffic 
 [image6]: ./examples/.LabelDistribution.png "6"
 [image7]: ./examples/dataExample.png "7"
 
-![1][image1] ![2][image2] ![3][image3] ![4][image4] ![5][image5]
+
+![1][image1]    | ![2][image2] | ![3][image3] | ![4][image4] | ![5][image5]  |
 
 Repository contents
 ---
@@ -96,12 +97,12 @@ To train the model, I used an Adam optimizer which is known to giver slightly be
 gradient descent in this type of problem.
 
 *HYPERPARAMETERS*:
-Batch size: 128
-Epochs: 25
-Learning rate : 0.0009
-Keep Prob : 0.5
-Mu: 0
-Sigma: 0.1
+* Batch size: 128
+* Epochs: 25
+* Learning rate : 0.0009
+* Keep Prob : 0.5
+* Mu: 0
+* Sigma: 0.1
 
 Validation summary
 ---
