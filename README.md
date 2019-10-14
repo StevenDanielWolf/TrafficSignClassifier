@@ -12,7 +12,7 @@ In this project, a convolutional neural network is utilized to classify traffic 
 [image3]: ./examples/Img3.jpg "3"
 [image4]: ./examples/Img4.jpg "4"
 [image5]: ./examples/Img5.jpg "5"
-[image6]: ./examples/.LabelDistribution.png "6"
+[image6]: ./examples/LabelDistribution.png "6"
 [image7]: ./examples/dataExample.png "7"
 
 Right-of-way at next Intersection | Road Work             | Yield                | Vehicles over 3.5t prohibitted | No entry               |
