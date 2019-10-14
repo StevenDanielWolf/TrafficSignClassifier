@@ -16,7 +16,8 @@ In this project, a convolutional neural network is utilized to classify traffic 
 [image7]: ./examples/dataExample.png "7"
 
 
-![1][image1]    | ![2][image2] | ![3][image3] | ![4][image4] | ![5][image5]  |
+:-----------------:|:---------------------:|:--------------------:|:------------------:|:----------------------:|
+![1][image1]       | ![2][image2]          | ![3][image3]         | ![4][image4]       | ![5][image5]           |
 
 Repository contents
 ---
